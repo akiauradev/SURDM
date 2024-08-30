@@ -13,9 +13,6 @@
 ## Main channel: [@discordaio](https://t.me/discordaio)
 
 
-## Tutorial / Showcase Video
-[![Youtube - Click to play](https://i.imgur.com/gm9NT8j.png)](https://youtu.be/vpO7oFDGJCI?si=o_25bv6KrJFTtB9w)
-Click to play
 
 
 
@@ -37,5 +34,9 @@ Click to play
 
 
 ![image](https://github.com/user-attachments/assets/a16cf13e-2290-4d12-9f4e-80ef21cbec7e)
+
+## Tutorial / Showcase Video
+[![Youtube - Click to play](https://i.imgur.com/gm9NT8j.png)](https://youtu.be/vpO7oFDGJCI?si=o_25bv6KrJFTtB9w)
+Click to play
 
 

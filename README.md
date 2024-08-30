@@ -34,5 +34,6 @@
 - Proxy Checker
 
 
-![image](https://github.com/user-attachments/assets/b0a003a5-c74c-4714-a6c2-c39bbe949a6f)
+![image](https://github.com/user-attachments/assets/a16cf13e-2290-4d12-9f4e-80ef21cbec7e)
+
 

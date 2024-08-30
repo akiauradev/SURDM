@@ -14,7 +14,7 @@
 
 
 ## Tutorial / Showcase Video
-[![Youtube - Click to play](https://i.imgur.com/xryOqX2.png)](https://youtu.be/vpO7oFDGJCI?si=o_25bv6KrJFTtB9w)
+[![Youtube - Click to play](https://i.imgur.com/gm9NT8j.png)](https://youtu.be/vpO7oFDGJCI?si=o_25bv6KrJFTtB9w)
 Click to play
 
 
